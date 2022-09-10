@@ -1,0 +1,15 @@
+C:\Users\Bruno Medina Pedroso\Documents\Projetos\C#\Console\Tratativa_Erro_Numerico\TratativaERRO_ValorNumerico\bin\Debug\net6.0\TratativaERRO_ValorNumerico.exe
+C:\Users\Bruno Medina Pedroso\Documents\Projetos\C#\Console\Tratativa_Erro_Numerico\TratativaERRO_ValorNumerico\bin\Debug\net6.0\TratativaERRO_ValorNumerico.deps.json
+C:\Users\Bruno Medina Pedroso\Documents\Projetos\C#\Console\Tratativa_Erro_Numerico\TratativaERRO_ValorNumerico\bin\Debug\net6.0\TratativaERRO_ValorNumerico.runtimeconfig.json
+C:\Users\Bruno Medina Pedroso\Documents\Projetos\C#\Console\Tratativa_Erro_Numerico\TratativaERRO_ValorNumerico\bin\Debug\net6.0\TratativaERRO_ValorNumerico.dll
+C:\Users\Bruno Medina Pedroso\Documents\Projetos\C#\Console\Tratativa_Erro_Numerico\TratativaERRO_ValorNumerico\bin\Debug\net6.0\TratativaERRO_ValorNumerico.pdb
+C:\Users\Bruno Medina Pedroso\Documents\Projetos\C#\Console\Tratativa_Erro_Numerico\TratativaERRO_ValorNumerico\obj\Debug\net6.0\TratativaERRO_ValorNumerico.csproj.AssemblyReference.cache
+C:\Users\Bruno Medina Pedroso\Documents\Projetos\C#\Console\Tratativa_Erro_Numerico\TratativaERRO_ValorNumerico\obj\Debug\net6.0\TratativaERRO_ValorNumerico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno Medina Pedroso\Documents\Projetos\C#\Console\Tratativa_Erro_Numerico\TratativaERRO_ValorNumerico\obj\Debug\net6.0\TratativaERRO_ValorNumerico.AssemblyInfoInputs.cache
+C:\Users\Bruno Medina Pedroso\Documents\Projetos\C#\Console\Tratativa_Erro_Numerico\TratativaERRO_ValorNumerico\obj\Debug\net6.0\TratativaERRO_ValorNumerico.AssemblyInfo.cs
+C:\Users\Bruno Medina Pedroso\Documents\Projetos\C#\Console\Tratativa_Erro_Numerico\TratativaERRO_ValorNumerico\obj\Debug\net6.0\TratativaERRO_ValorNumerico.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Medina Pedroso\Documents\Projetos\C#\Console\Tratativa_Erro_Numerico\TratativaERRO_ValorNumerico\obj\Debug\net6.0\TratativaERRO_ValorNumerico.dll
+C:\Users\Bruno Medina Pedroso\Documents\Projetos\C#\Console\Tratativa_Erro_Numerico\TratativaERRO_ValorNumerico\obj\Debug\net6.0\refint\TratativaERRO_ValorNumerico.dll
+C:\Users\Bruno Medina Pedroso\Documents\Projetos\C#\Console\Tratativa_Erro_Numerico\TratativaERRO_ValorNumerico\obj\Debug\net6.0\TratativaERRO_ValorNumerico.pdb
+C:\Users\Bruno Medina Pedroso\Documents\Projetos\C#\Console\Tratativa_Erro_Numerico\TratativaERRO_ValorNumerico\obj\Debug\net6.0\TratativaERRO_ValorNumerico.genruntimeconfig.cache
+C:\Users\Bruno Medina Pedroso\Documents\Projetos\C#\Console\Tratativa_Erro_Numerico\TratativaERRO_ValorNumerico\obj\Debug\net6.0\ref\TratativaERRO_ValorNumerico.dll
